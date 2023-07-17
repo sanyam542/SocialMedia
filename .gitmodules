@@ -1,0 +1,13 @@
+
+[submodule "social-client"]
+path = social-client
+	url = https://github.com/sanyam542/social-client
+
+
+
+[submodule "social-api"]
+	path = social-api
+	url = https://github.com/sanyam542/social-api
+[submodule "social-socket"]
+	path = social-socket
+	url = https://github.com/sanyam542/social-socket
